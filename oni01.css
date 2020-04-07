@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+}
+header{
+  height: 80px;
+  color: #fff;
+  background: #f00;
+  text-align: center;
+}
+main{
+  height: 500px;
+  color: #fff;
+  background: #00f;
+  text-align: center;
+}
+footer{
+  height: 80px;
+  color: #fff;
+  background: #000;
+  text-align: center;
+}
