@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+}
+.header{
+  height: 80px;
+  width: 980px;
+  background: #f00;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-wrap{
+  width: 980px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main{
+  float: left;
+  height: 100%;
+  width: 680px;
+  background: #00f;
+}
+.sideber{
+  float: left;
+  height: 100%;
+  width: 300px;
+  background: #0f0;
+}
+.footer{
+  height: 80px;
+  width: 980px;
+  background: #000;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-common{
+  color: #fff;
+  text-align: center;
+}
