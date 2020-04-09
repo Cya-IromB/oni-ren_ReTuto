@@ -2,7 +2,6 @@
   background: #000;
   width: 500px;
   height: 500px;
-  position: relative;
 }
 .child{
   display: block;
@@ -10,5 +9,5 @@
   width: 100px;
   height: 100px;
   top: 200px;
-  position: absolute;
+  position: relative;
 }
