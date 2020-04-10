@@ -1,0 +1,14 @@
+.oya{
+  width: 500px;
+  height: 500px;
+  background: #000;
+}
+.ko{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background: #f00;
+  margin-right: auto;
+  margin-left: auto;
+  top: 200px;
+}
