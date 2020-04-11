@@ -1,0 +1,34 @@
+.oya{
+  width: 500px;
+  height: 500px;
+  background: #f6f5f4
+}
+.sq{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.ko1{
+  top: 50px;
+  left: 50px;
+  background: #ff9abc;
+  z-index: 1;
+}
+.ko2{
+  top: 100px;
+  left: 100px;
+  background: #f9b9ff;
+  z-index: 2;
+}
+.ko3{
+  top: 150px;
+  left: 150px;
+  background: #cbb8ff;
+  z-index: 3;
+}
+.ko4{
+  top: 200px;
+  left: 200px;
+  background: #acb5ff;
+  z-index: 4;
+}
