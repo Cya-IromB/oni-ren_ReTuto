@@ -1,0 +1,15 @@
+.oya{
+  width: 500px;
+  height: 200px;
+  overflow: hidden;
+  background: #000;
+}
+.sq{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  float: left;
+  top: 50px;
+  margin-right: 10px;
+  background: #f00;
+}
