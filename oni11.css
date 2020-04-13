@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+.oya{
+  width: 500px;
+  height: 200px;
+  background: #222;
+  position: relative;
+  overflow: hidden;
+}
+.wrap{
+  margin: 0;
+  position: relative;
+  float: right;
+  top: 50px;
+  overflow: hidden;
+}
+.sq{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  float: left;
+  margin-right: 10px;
+}
+.ko1{
+  background: #f00;
+}
+.ko2{
+  background: #0f0;
+}
+.ko3{
+  background: #00f;
+}
+.ko4{
+  background: #ff0;
+}
+.sq:last-child{
+  margin-right: 0px;
+}
